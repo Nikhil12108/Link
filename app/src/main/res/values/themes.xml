@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.LinkBudget" parent="Base.Theme.LinkBudget" />
+    <style name="LinkBudgetMainUI" >
+        <item name="android:layout_margin"> 120dp </item>
+    </style>
 </resources>
